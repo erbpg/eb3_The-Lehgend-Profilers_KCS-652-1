@@ -1,4 +1,3 @@
-## Introduction (Round 0)
 
 ## Introduction (Round 0)
 
