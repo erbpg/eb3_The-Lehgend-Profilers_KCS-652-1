@@ -1,18 +1,20 @@
 ## Introduction (Round 0)
 
+## Introduction (Round 0)
+
 <b>Discipline | <b>Computer Science And Engineering
 :--|:--|
-<b> Lab | <b>Database Management Lab
-<b> Experiment|     <b> 1. Normalization.
+<b> Lab | <b>Web Technology Lab
+<b> Experiment|     <b> 2. Write HTML/Java scripts to display your CV in navigator, your Institute website, Department Website and Tutorial website for specific subject.
 
 <h5> About the Lab (Objective) : </h5>
-In this Lab a Graphical User Interface will provide where a lots of information exist on Normalization.
+In this Lab a Graphical User Interface will provide where user perform operations based on website features.
 <h5> About the Experiment : </h5>
 
-It this experiment if user clicks on functional button then he will get resultant information. 
+It this experiment user will see CV in navigator, and reach my Institute website, Department Website and Tutorial website for specific subject by click on specified procedural buttons. 
 
 <h5> Target Audience : </h5>
-This experiment is target to: Students, Faculty, & every field where database management exist.
+This experiment is target to: Students, Faculty, College, Professionals etc.
 
 
 <h5> Course Alignment : Computer Science And Engineering </h5>
