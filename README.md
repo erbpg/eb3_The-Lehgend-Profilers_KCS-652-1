@@ -1,7 +1,7 @@
 
 ## Introduction (Round 0)
 
-<b>Discipline | <b>Computer Science And Engineering
+<b>Discipline | <b>Computer Science & Engineering
 :--|:--|
 <b> Lab | <b>Web Technology Lab
 <b> Experiment|     <b> 2. Write HTML/Java scripts to display your CV in navigator, your Institute website, Department Website and Tutorial website for specific subject.
@@ -13,10 +13,10 @@ In this Lab a Graphical User Interface will provide where user perform operation
 It this experiment user will see CV in navigator, and reach my Institute website, Department Website and Tutorial website for specific subject by click on specified procedural buttons. 
 
 <h5> Target Audience : </h5>
-This experiment is target to: Students, Faculty, College, Professionals etc.
+This experiment is target to: Students, Faculty members.
 
 
-<h5> Course Alignment : Computer Science And Engineering </h5>
+<h5> Course Alignment : Computer Science & Engineering </h5>
 
 
 
